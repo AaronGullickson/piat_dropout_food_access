@@ -1,5 +1,5 @@
 ---
-title: "Full Report on [Name Research Project]"
+title: "Full Report on Dropout Rate and Food Access"
 author: "Your name here"
 format: pdf
 editor: visual
@@ -16,8 +16,9 @@ execute:
 ## This code block will load the data and packages that you will need
 ## for the project. Click the green "play" button in the upper right to run this
 ## code.
-#load("input/data.RData")
+load("input/tracts_food.RData")
 library(ggplot2)
+library(tibble)
 library(modelsummary)
 ```
 
