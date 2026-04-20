@@ -2,7 +2,7 @@
 editor: visual
 ---
 
-# Putting It All Together Project on [Name of Research Project]
+# Putting It All Together Project on Dropout Rate and Food Access
 
 # Introduction
 
@@ -10,12 +10,12 @@ Throughout the the term, you will be working to build up an analysis of a specif
 
 ## Research Topic:
 
-Describe research topic
+Using data from the USDA Food Access Research Atlas and the American Community Survey, you will examine the relationship between the high school dropout rate and food accessibility by US Census tracts.
 
 ### Research questions
 
-1.  x related to y
-2.  contextual variable
+1.  What is the relationship between the high school drop out rate and accessibility to grocery stores by US Census tracts?
+2.  Does this relationship between drop out rate and food accessibility vary by the urban/rural status of the tract?
 
 ## Technical Details
 
